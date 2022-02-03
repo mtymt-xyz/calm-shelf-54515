@@ -1,0 +1,8 @@
+{
+  "name": "calm-shelf-54515",
+  "private": "true",
+  "version": "1.0.0",
+  "dependencies": {
+    "newrelic": "^8.7.1"
+  }
+}
